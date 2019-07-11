@@ -1,0 +1,13 @@
+img {
+  display: block;
+  width: 100%;
+  height: auto
+}
+ul{
+  list-style: none;
+  padding-inline-start: 0px;
+  margin: 0;
+}
+ul li{
+  list-style: none;
+}

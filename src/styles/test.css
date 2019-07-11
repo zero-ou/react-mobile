@@ -1,0 +1,15 @@
+div.goods_list div.good_group div.good_group_title {
+  padding: 10px;
+  color: #ccc;
+  font-size: 14px;
+}
+div.goods_list div.good_group ul.good_group_content li div.goods_name {
+  font-size: 12px;
+}
+div.goods_list div.good_group ul.good_group_content li div.goods_price span.sell_price {
+  float: left;
+  color: red;
+}
+div.goods_list div.good_group ul.good_group_content li div.goods_price span.market_price {
+  float: right;
+}
